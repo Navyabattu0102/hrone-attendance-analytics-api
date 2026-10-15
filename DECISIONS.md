@@ -2,7 +2,7 @@
 
 # 
 
-# \## 1. Follow the API Contract
+# &#x20;1. Follow the API Contract
 
 # 
 
@@ -10,7 +10,7 @@
 
 # 
 
-# \## 2. Handle Timestamps Consistently
+# &#x20;2. Handle Timestamps Consistently
 
 # 
 
@@ -18,7 +18,7 @@
 
 # 
 
-# \## 3. Enforce Uniqueness in MongoDB
+# &#x20;3. Enforce Uniqueness in MongoDB
 
 # 
 
@@ -26,7 +26,7 @@
 
 # 
 
-# \## 4. Calculate Attendance Values Consistently
+# &#x20;4. Calculate Attendance Values Consistently
 
 # 
 
@@ -34,7 +34,7 @@
 
 # 
 
-# \## 5. Keep Configuration and Secrets Separate
+# &#x20;5. Keep Configuration and Secrets Separate
 
 # 
 
@@ -42,7 +42,7 @@
 
 # 
 
-# \## 6. Support Query Performance Inspection
+# &#x20;6. Support Query Performance Inspection
 
 # 
 
